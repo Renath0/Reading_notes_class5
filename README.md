@@ -11,7 +11,7 @@ El propósito de CSS (Cascading Style Sheets) es definir el aspecto y la present
 ```
 <p> style="color: red; font-size: 16px;".</p>
 ```
-  3. **Estilo Incrustado**: Se aplica CSS dentro de la sección <style> en la cabecera de un documento HTML. Esta técnica es útil para aplicar estilos a varios elementos en un documento HTML
+  2. **Estilo Incrustado**: Se aplica CSS dentro de la sección <style> en la cabecera de un documento HTML. Esta técnica es útil para aplicar estilos a varios elementos en un documento HTML
   ```
 <!DOCTYPE html>
 <html>
@@ -28,7 +28,7 @@ El propósito de CSS (Cascading Style Sheets) es definir el aspecto y la present
 </body>
 ```
   
-  5. **Estilo Enlace externo:**  Aqui los archivos CSS van separado y se enlaza con un documento HTML  utilizando la etiqueta <link> en la sección <head> luego se crea otro archivo con el nombre estilos.css, pu
+  3. **Estilo Enlace externo:**  Aqui los archivos CSS van separado y se enlaza con un documento HTML  utilizando la etiqueta <link> en la sección <head> luego se crea otro archivo con el nombre estilos.css, pu
      
 ```
 <!DOCTYPE html>
