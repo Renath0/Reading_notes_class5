@@ -1,7 +1,6 @@
 # Reading_notes_class5
 
-En el mundo de la programación la gestión de versiones es fundamental para garantizar un flujo de trabajo fluido y colaborativo, el versionamiento local, remoto y distribuido son componentes esenciales para un mejor desarrollo de proyectos.
-En esta oportunidad vamos a comprender los conceptos de versionamiento local, remoto y distributivo.
+En esta sesión, exploramos la importancia de utilizar CSS para dar vida y color a las páginas web. El trabajo con CSS va más allá de simplemente aplicar colores y tipografías; también implica crear una armonía visual entre los elementos utilizados en el diseño. CSS nos permite mejorar la estética y la experiencia del usuario al momento de explorar una página web. 
 
 ## Preguntas:
 ### - ¿Cuál es el propósito de CSS?
@@ -50,7 +49,7 @@ p {
 }
 ```
 
-### - Escribe un ejemplo de una regla CSS que daría texto rojo a todos los elementos <p>.
+### - Escribe un ejemplo de una regla CSS que daría texto rojo a todos los elementos <p>
 ```
 p {
     color: red;
